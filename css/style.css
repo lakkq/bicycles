@@ -329,6 +329,7 @@
 .btn {
   height: 20px;
   position: relative;
+  opacity: 50%;
 }
 
 .box {
@@ -340,7 +341,6 @@
   position: absolute;
   top: -75%;
   left: 0;
-  opacity: 50%;
 }
 .box:nth-child(2) {
   transform: rotate(-45deg);
